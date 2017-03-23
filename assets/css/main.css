@@ -2564,7 +2564,7 @@
 		}
 
 		#header .logo {
-			background: #4eb980;
+			background: pink;
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2597,7 +2597,7 @@
 
 	#footer {
 		background-attachment: scroll;
-		background-color: #4eb980;
+		background-color: pink;
 		background-image: url("images/bottom-3200.svg");
 		background-position: top center;
 		background-repeat: repeat-x;
