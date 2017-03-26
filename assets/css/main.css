@@ -1333,8 +1333,8 @@
 		
 		.image.program2 {
 			display : block;
-			width : 200px;
-			margin: 0 0 2em 0;
+			width : 600px;
+			margin: 0 auto 0 auto;
 		}
 
 /* Button */
